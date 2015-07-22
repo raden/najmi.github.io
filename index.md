@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Assalamulaikum!
+title: Assalamualaikum!
 tagline: Sembang IT dan Teknologi
 ---
 {% include JB/setup %}
